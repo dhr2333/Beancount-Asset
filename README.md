@@ -4,7 +4,7 @@
 
 为所有用户提供账本组织结构，目录结构如下：
 
-![](https://daihaorui.oss-cn-hangzhou.aliyuncs.com/djangoblog/202503061727934.png)
+![目录结构](https://daihaorui.oss-cn-hangzhou.aliyuncs.com/djangoblog/202503061727934.png)
 
 ## 账单规范
 
@@ -12,11 +12,11 @@
 
 以月进行记录，以年进行存档。
 
-入门教程：[Beancount 入门教程](https://www.dhr2333.cn/article/2022/9/10/52.html)
+入门教程：[Beancount 入门教程](https://trans.dhr2333.cn/docs/blog/2024/08/17/%E5%80%9F%E8%B4%B7%E8%AE%B0%E8%B4%A6%E6%B3%95)
 
 ## 运行
 
-若是通过 docker compose 运行的 Beancount-Trans 项目可直接通过 http://127.0.0.1:5000 访问
+若是通过 docker compose 运行的 Beancount-Trans 项目可直接通过 <http://127.0.0.1:5000> 访问
 
 ### Docker Compose
 
